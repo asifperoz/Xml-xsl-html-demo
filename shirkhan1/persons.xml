@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="person.css" type="text/css"?>
+<person>
+	<name>Shir Khan</name>
+	<age>25</age>
+	<telefon>05326584</telefon>
+</person>

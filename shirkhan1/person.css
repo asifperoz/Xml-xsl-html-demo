@@ -1,0 +1,24 @@
+person { 
+	display:block; 
+}
+
+name, age, telefon {
+	display: block;
+	background: lightblue;
+	padding: 15px;
+	margin: 10px;
+	border: 2px solid gray;
+	border-radius: 15px;
+	box-shadow: 3px 3px black;
+	font-weight: bold;
+	font-family: consolas;
+	font-size: 30px;
+	font-style: italic;
+	transition: box-shadow 0.25s;
+	transition: margin 0.25s;
+}
+
+name:hover, age:hover, telefon:hover {
+	box-shadow: 15px 15px green;
+	margin: 20px;
+}
